@@ -1,0 +1,29 @@
+aside {
+    float: left;
+    width: 25%;
+    padding-right: 20px;
+}
+
+aside ul {
+    list-style-type: none;
+    background: #e01ca6;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+aside a {
+    color: white;
+    text-decoration: none;
+    padding: 16px;
+    display: block;
+}
+
+aside li {
+    text-align: center;
+}
+
+aside a:hover {
+    background-color: white;
+    color: #4888F5;
+}

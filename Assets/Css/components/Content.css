@@ -1,0 +1,21 @@
+.row {
+    padding: 0 20px;
+    display:table;
+
+  }
+
+  section {
+    float: right;
+    width: 75%;
+  }
+
+  .card {
+    background: #f3f5f9;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+
+  section img {
+    width: 100%;
+  }
