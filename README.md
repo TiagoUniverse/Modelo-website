@@ -6,8 +6,6 @@ Este repositório vai armazenar um modelo de website do estilo Blog que eu estou
 
 ---
 
-## Link
-https://curriculo-tiago.netlify.app/
 
 ## 🎯 Objetivo
 Armazenar um modelo de Website responsivo do tipo Blog.
